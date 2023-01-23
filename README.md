@@ -1,5 +1,7 @@
 # FigmaFiles
 
+*Dashboard*
+
 [E-commerce 2.0](https://www.figma.com/file/o8MuRSQn1JmGF9s1hD3esU/Personal-Project?node-id=622%3A50&t=7YtJTp2Rom808jeG-1)
 
 [Cycling Website](https://www.figma.com/file/o8MuRSQn1JmGF9s1hD3esU/Personal-Project?node-id=507%3A115&t=7YtJTp2Rom808jeG-1)
@@ -25,6 +27,8 @@
 [Stock vectors](https://www.figma.com/file/o8MuRSQn1JmGF9s1hD3esU/Personal-Project?node-id=57%3A18&t=7YtJTp2Rom808jeG-1)
 
 [Insights ideas](https://www.figma.com/file/o8MuRSQn1JmGF9s1hD3esU/Personal-Project?node-id=66%3A16&t=7YtJTp2Rom808jeG-1)
+
+*Dashboard*
 
 [Buy a course](https://www.figma.com/file/o8MuRSQn1JmGF9s1hD3esU/Personal-Project?node-id=77%3A309&t=7YtJTp2Rom808jeG-1)
 

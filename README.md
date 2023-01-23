@@ -28,6 +28,40 @@
 
 [Insights ideas](https://www.figma.com/file/o8MuRSQn1JmGF9s1hD3esU/Personal-Project?node-id=66%3A16&t=7YtJTp2Rom808jeG-1)
 
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 *Mobile*
 
 [Buy a course](https://www.figma.com/file/o8MuRSQn1JmGF9s1hD3esU/Personal-Project?node-id=77%3A309&t=7YtJTp2Rom808jeG-1)

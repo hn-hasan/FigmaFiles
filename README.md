@@ -28,6 +28,8 @@
 
 [Insights ideas](https://www.figma.com/file/o8MuRSQn1JmGF9s1hD3esU/Personal-Project?node-id=66%3A16&t=7YtJTp2Rom808jeG-1)
 
+[EM Index Page - Mobile](https://www.figma.com/file/Sf08lHtOeAaO6NBzrrPbUR/Ehsan-Mobile-desing?node-id=2%3A4&t=LM69EESqZfPeDJzA-1)
+
 []()
 
 []()
